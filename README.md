@@ -27,7 +27,7 @@ Performance Measurement and Comparison
 The project measures and compares the execution times for both serial and parallel processing modes. It calculates the speedup factor to quantify the efficiency gains from parallel processing.
 
 # Requirements
-Install the required libraries using pip:  
+## Install the required libraries using pip:  
 
     pip install numpy opencv-python pymp-pypi ipywidgets
 
