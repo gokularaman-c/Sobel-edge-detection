@@ -26,12 +26,12 @@ The Parallel Processing Module uses the PyMP library to split image processing t
 Performance Measurement and Comparison
 The project measures and compares the execution times for both serial and parallel processing modes. It calculates the speedup factor to quantify the efficiency gains from parallel processing.
 
-Requirements
+# Requirements
 Install the required libraries using pip:  
 
     pip install numpy opencv-python pymp-pypi ipywidgets
 
-Code Description
+# Code Description
 Key Functions
 process_images_serial:
 
