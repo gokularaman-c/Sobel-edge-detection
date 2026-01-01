@@ -1,6 +1,6 @@
 This project demonstrates the implementation of the Sobel edge detection operator using both serial and parallel processing techniques. The project compares the performance of the two implementations on an animal image dataset, analyzing the time efficiency and speedup achieved through parallel processing.
 
-Project Overview
+# Project Overview
 The Sobel edge detection algorithm is widely used in image processing to detect edges by calculating intensity gradients. This project includes:
 
 A serial implementation where each image is processed sequentially.
